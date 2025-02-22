@@ -14,6 +14,7 @@ https://t.me/johnreal01
 
 # fb account creator
 create unlimited Facebook accounts with email or tempmail and phone verification 
+automatic creation and verification 
 
 auto proxy IP
 
